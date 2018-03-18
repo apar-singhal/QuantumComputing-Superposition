@@ -1,0 +1,11 @@
+F:\QuantumComputing\Workspace\SuperpositionArray\SuperpositionArray\bin\Debug\netcoreapp2.0\SuperpositionArray.deps.json
+F:\QuantumComputing\Workspace\SuperpositionArray\SuperpositionArray\bin\Debug\netcoreapp2.0\SuperpositionArray.runtimeconfig.json
+F:\QuantumComputing\Workspace\SuperpositionArray\SuperpositionArray\bin\Debug\netcoreapp2.0\SuperpositionArray.runtimeconfig.dev.json
+F:\QuantumComputing\Workspace\SuperpositionArray\SuperpositionArray\bin\Debug\netcoreapp2.0\SuperpositionArray.dll
+F:\QuantumComputing\Workspace\SuperpositionArray\SuperpositionArray\bin\Debug\netcoreapp2.0\SuperpositionArray.pdb
+F:\QuantumComputing\Workspace\SuperpositionArray\SuperpositionArray\obj\Debug\netcoreapp2.0\SuperpositionArray.csprojResolveAssemblyReference.cache
+F:\QuantumComputing\Workspace\SuperpositionArray\SuperpositionArray\obj\Debug\netcoreapp2.0\SuperpositionArray.csproj.CoreCompileInputs.cache
+F:\QuantumComputing\Workspace\SuperpositionArray\SuperpositionArray\obj\Debug\netcoreapp2.0\SuperpositionArray.AssemblyInfoInputs.cache
+F:\QuantumComputing\Workspace\SuperpositionArray\SuperpositionArray\obj\Debug\netcoreapp2.0\SuperpositionArray.AssemblyInfo.cs
+F:\QuantumComputing\Workspace\SuperpositionArray\SuperpositionArray\obj\Debug\netcoreapp2.0\SuperpositionArray.dll
+F:\QuantumComputing\Workspace\SuperpositionArray\SuperpositionArray\obj\Debug\netcoreapp2.0\SuperpositionArray.pdb
